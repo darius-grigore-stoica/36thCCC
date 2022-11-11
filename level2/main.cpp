@@ -2,10 +2,10 @@
  * Team Podurile Valea Largă
  * Members:
  *  Alex Trifan
+ *  Denisa Stolniceanu
  *  Darius Stoica
- *  Denisa Solniceanu
  * ---------------------------
- *  Cloudflight Coding Contest
+ *  36th Cloudflight Coding Contest
  *  2022 Nov. Edition
  * */
 
